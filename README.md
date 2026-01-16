@@ -1,6 +1,6 @@
 # 📚 Biblioteca de Prompts
 
-Una aplicació web senzilla per gestionar i organitzar els teus prompts per a IAG i VibeCoding.
+Una aplicació web senzilla per gestionar i organitzar prompts per a IAG i VibeCoding.
 
 ## ✨ Característiques
 
@@ -12,39 +12,6 @@ Una aplicació web senzilla per gestionar i organitzar els teus prompts per a IA
 - 📱 **Responsive**: Funciona perfectament en mòbil i escriptori
 - 🎨 **Interfície moderna**: Disseny atractiu i fàcil d'usar
 
-## 🚀 Com desplegar a GitHub Pages
-
-### Pas 1: Crear el repositori
-
-1. Ves a [GitHub](https://github.com) i inicia sessió
-2. Clica "New repository" (botó verd)
-3. Posa un nom al repositori (ex: `biblioteca-prompts`)
-4. Marca'l com a **Public** o **Private** (com prefereixis)
-5. Clica "Create repository"
-
-### Pas 2: Pujar els fitxers
-
-1. A la pàgina del nou repositori, clica "uploading an existing file"
-2. Arrossega el fitxer `index.html` a la zona indicada
-3. Escriu un missatge de commit (ex: "Primera versió de la biblioteca")
-4. Clica "Commit changes"
-
-### Pas 3: Activar GitHub Pages
-
-1. Al teu repositori, ves a **Settings** (configuració)
-2. Al menú lateral esquerre, clica **Pages**
-3. A "Source", selecciona **Deploy from a branch**
-4. A "Branch", selecciona **main** i la carpeta **/ (root)**
-5. Clica **Save**
-
-### Pas 4: Accedir a l'aplicació
-
-Després d'uns minuts, la teva aplicació estarà disponible a:
-```
-https://EL-TEU-USUARI.github.io/biblioteca-prompts/
-```
-
-(Substitueix `EL-TEU-USUARI` pel teu nom d'usuari de GitHub)
 
 ## 📖 Com utilitzar l'aplicació
 
@@ -109,19 +76,6 @@ Si vols personalitzar l'aplicació (colors, estils, funcionalitats):
 - **Descripció**: Aplicació de memòria amb diferents temes
 - **Etiquetes**: `joc, primària, memòria, vibecoding`
 
-## 🆘 Ajuda i suport
-
-Si tens problemes:
-
-1. Assegura't que el fitxer `index.html` està a l'arrel del repositori
-2. Comprova que GitHub Pages està activat a la configuració
-3. Espera uns minuts després d'activar GitHub Pages
-4. Prova obrir l'aplicació en mode incògnit per evitar problemes de cache
-
 ## 📄 Llicència
 
 Aquest projecte és de lliure ús per a finalitats personals i educatives.
-
----
-
-Creat amb ❤️ per a docents que utilitzen IAG i VibeCoding

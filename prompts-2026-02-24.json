@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Creador d'històries. PROMPT BASE",
+    "description": "",
+    "text": "Vull que actuïs com a escriptor/a expert/a en literatura infantil per a nens i nenes de 7 a 9 anys.\n\nM'ajudaràs a crear un llibre d'estil \"tria la teva aventura\".\n\nCondicions:\n- Capítols curts (300-500 paraules màxim).\n- Llenguatge clar, frases no gaire llargues.\n- To emocionant però no aterridor.\n- Valors positius (amistat, valentia, cooperació, pensament crític).\n- Cada capítol ha d'acabar amb 2 opcions clares.\n- Les opcions han d'indicar a quin capítol anar (ex: \"Si tries X, ves al capítol 5\").\n- No repetir exactament les mateixes situacions.\n- Les decisions han de tenir conseqüències reals.\n- Hi ha d’haver com a mínim 3 finals diferents (bo, regular i sorprenent/divertit).\n\nAbans de començar, ajuda'm a definir:\n1) Protagonista (edat, trets, habilitats)\n2) Ambientació (fantasia, escola, espai, misteri, natura...)\n3) Objectiu principal\n4) Possible antagonista o repte\n5) Valors que vull transmetre",
+    "tags": [
+      "Llibres"
+    ],
+    "id": 1771957933041
+  },
+  {
+    "title": "2 PROMPT PER CONSTRUIR L’ESQUELET",
+    "description": "",
+    "text": "Ara crea l'estructura completa del llibre abans d'escriure'l.\n\nNecessito:\n- Llista numerada de tots els capítols (mínim 15, màxim 25).\n- Un resum de 2-3 línies per capítol.\n- Indica clarament quines opcions porten a quins capítols.\n- Marca quins capítols són finals.\n- Assegura que totes les rutes porten a un final (cap camí mort).\n\nNo escriguis el text complet encara. Només l’esquema.",
+    "tags": [],
+    "id": 1771957966605
+  },
+  {
+    "title": "3 PROMPT PER ESCRIURE CADA CAPÍTOL",
+    "description": "",
+    "text": "Escriu el Capítol X seguint exactament l'estructura acordada.\n\nRecorda:\n- 300-500 paraules.\n- Ritme àgil.\n- Molta acció i diàleg.\n- Descripcions visuals però no massa llargues.\n- Acaba amb les dues opcions exactes indicades a l'esquema.\n- No avancis informació de capítols futurs.",
+    "tags": [],
+    "id": 1771957993913
+  },
+  {
+    "title": "4 PROMPT PER MILLORAR LA QUALITAT LITERÀRIA",
+    "description": "",
+    "text": "Revisa aquest capítol com si fossis editor/a professional de literatura infantil.\n\nAnalitza:\n- Si el vocabulari és adequat per 7-9 anys.\n- Si hi ha frases massa llargues.\n- Si hi ha paraules difícils (proposa alternatives).\n- Si el ritme és prou dinàmic.\n- Si les opcions generen curiositat real.\n\nDesprés reescriu-lo millorant-lo però mantenint la història intacta.",
+    "tags": [],
+    "id": 1771958023128
+  },
+  {
+    "title": "6 PROMPT PER FER-LA MÉS EMOCIONANT",
+    "description": "",
+    "text": "Augmenta la tensió i l'emoció del capítol sense fer-lo més llarg.\n\n- Afegeix més sensacions (sorolls, olors, emocions).\n- Introdueix petits dubtes o incerteses.\n- Fes que la decisió final sigui difícil de triar.",
+    "tags": [],
+    "id": 1771958047973
+  },
+  {
+    "title": "6 PROMPT PER CREAR FINALS POTENTS",
+    "description": "",
+    "text": "Crea 3 tipus de finals:\n1) Final molt positiu (aprendre una lliçó)\n2) Final agredolç (no surt tot perfecte)\n3) Final sorprenent o divertit\n\nEls finals han de donar sensació de tancament real.\nInclou una petita reflexió final adaptada a infants.",
+    "tags": [],
+    "id": 1771958076115
+  }
+]
